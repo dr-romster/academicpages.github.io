@@ -15,7 +15,7 @@ Education
 * MBBS  Imperial College School of Medicine, London, 2005
 * MRCP  Royal College of Physicians, London, 2009
 * FRCA  Royal College of Anaesthetists, London, 2013
-* FFICM Faculty of Intensive Care Medciine, RCoA, London, 2017
+* FFICM Faculty of Intensive Care Medicine, RCoA, London, 2017
 * Ph.D  University of Cambridge, 2021
 
 Clinical experience
