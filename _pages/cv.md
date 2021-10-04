@@ -21,7 +21,7 @@ Education
 Clinical experience
 ======
 * Aug 2005:- Doctor in National Health Service
-  * Anaesthesia & Intensive Care Medicine
+  * Specilast registrar in Anaesthesia & Intensive Care Medicine
   * 2011-12 ICU, Prince of Wales Hospital, Sydney
  
   
