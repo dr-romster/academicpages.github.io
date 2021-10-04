@@ -17,10 +17,11 @@ Education
 * FRCA  Royal College of Anaesthetists, London, 2013
 * FFICM Faculty of Intensive Care Medicine, RCoA, London, 2017
 * Ph.D  University of Cambridge, 2021
+  * Thesis title: Endotype discovery in acute respiratory distress syndrome   
 
 Clinical experience
 ======
-* Doctor in National Health Service since 2005
+* Doctor in the National Health Service since 2005
   * Specialist registrar in Anaesthesia & Intensive Care Medicine
   * 2011-12 ICU registrar, Prince of Wales Hospital, Sydney
 * Advanced life support (ALS) instructor
@@ -29,9 +30,14 @@ Clinical experience
   
 Research Experience
 ======
-* R
-* Python
-* SQL
+* University division of anaesthesia research fellow, Cambridge (2015-16)
+* NIHR-GSK MRC (EMINENT Consortium) Research Training Fellow, Unviersity of Cambridge (2017-2021)
+* NIHR Academic clinical lecturer in intensive care medicine (2021- )
+
+* Informatics
+  * R
+  * Python
+  * SQL
 
   
 Service and leadership
