@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.A. (Cantab), University of Cambridge, 2002
-* MBBS, Imperial College School of Medicine, London, 2005
-* MRCP, Royal College of Physicians, London, 2009
-* FRCA, Royal College of Anaesthetists, London, 2013
-* FFICM, Faculty of Intensive Care Medciine, RCoA, London, 2017
-* Ph.D, University of Cambridge, 2021
+* MA(Cantab) University of Cambridge, 2002
+* MBBS  Imperial College School of Medicine, London, 2005
+* MRCP  Royal College of Physicians, London, 2009
+* FRCA  Royal College of Anaesthetists, London, 2013
+* FFICM Faculty of Intensive Care Medciine, RCoA, London, 2017
+* Ph.D  University of Cambridge, 2021
 
 Clinical experience
 ======
@@ -31,6 +31,7 @@ Research Experience
 ======
 * R
 * Python
+* SQL
 
   
 Service and leadership
@@ -38,7 +39,10 @@ Service and leadership
 * Chief Resident, Anaesthesia 2015-16
   * Department of Anaesthesia, Cambridge University Hospitals NHS Foundation Trust   
 
-Fellowships
+
+
+{::comment}
+This text is completely ignored by kramdown - a comment in the text.
 
 Publications
 ======
@@ -58,3 +62,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+{:/comment}
