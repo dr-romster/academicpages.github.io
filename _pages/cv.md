@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.A. (Cantab), x of Cambridge, 2002
+* M.A. (Cantab), University of Cambridge, 2002
 * MBBS, Imperial College School of Medicine, London, 2005
 * MRCP, Royal College of Physicians, London, 2009
 * FRCA, Royal College of Anaesthetists, London, 2013
@@ -35,6 +35,8 @@ Service and leadership
 ======
 * Chief Resident, Anaesthesia 2015-16
   * Department of Anaesthesia, Cambridge University Hospitals NHS Foundation Trust   
+
+Fellowships
 
 Publications
 ======
