@@ -22,7 +22,7 @@ Clinical experience
 ======
 * Doctor in National Health Service since 2005
   * Specialist registrar in Anaesthesia & Intensive Care Medicine
-  * 2011-12 ICU, Prince of Wales Hospital, Sydney
+  * 2011-12 ICU registrar, Prince of Wales Hospital, Sydney
 * Advanced life support (ALS) instructor
 * Focused echocardiography (FICE) mentor
  
