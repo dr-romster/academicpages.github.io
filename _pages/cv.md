@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.A. (Cantab), University of Cambridge, 2002
-* MBBS, Imperial College School of Medicine, 2005
-* MRCP, Royal College of Physician, London, 2009
+* M.A. (Cantab), x of Cambridge, 2002
+* MBBS, Imperial College School of Medicine, London, 2005
+* MRCP, Royal College of Physicians, London, 2009
 * FRCA, Royal College of Anaesthetists, London, 2013
 * FFICM, Faculty of Intensive Care Medciine, RCoA, London, 2017
-* Ph.D, Unviersity of Cambridge, 2021
+* Ph.D, University of Cambridge, 2021
 
 Clinical experience
 ======
