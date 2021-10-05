@@ -15,7 +15,7 @@ Education
 * MBBS  Imperial College School of Medicine, London, 2005
 * MRCP  Royal College of Physicians, London, 2009
 * FRCA  Royal College of Anaesthetists, London, 2013
-* FFICM Faculty of Intensive Care Medicine, RCoA, London, 2017
+* FFICM Faculty of Intensive Care Medicine, RCoA, London, 2016
 * Ph.D  University of Cambridge, 2021
   * Thesis title: Endotype discovery in acute respiratory distress syndrome   
 
@@ -42,7 +42,7 @@ Research Experience
   
 Service and leadership
 ======
-* Chief Resident, Anaesthesia 2015-16
+* Chief Resident, Anaesthesia 2016-17
   * Department of Anaesthesia, Cambridge University Hospitals NHS Foundation Trust   
 
 
