@@ -22,7 +22,7 @@ Education
 Clinical experience
 ======
 * Doctor in the National Health Service since 2005
-  * Specialist registrar in Anaesthesia & Intensive Care Medicine
+  * Anaesthetist & Intensive Care Physician (CCT 2023)
   * 2011-12 ICU registrar, Prince of Wales Hospital, Sydney
 * Advanced life support (ALS) instructor
 * Focused echocardiography (FICE) mentor
