@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a clinical lecturer (practising doctor and research scientist) in intensive care medicine at the University of Cambridge, UK. I am investigating the subtypes of severe respiratory failure in patients on intensive care. 
+I am a clinical lecturer (practising doctor and research scientist) in intensive care medicine at the University of Cambridge, UK. I am investigating subtypes of critically unwell patients by combing the information from multi-omic studies with clinical data. 
 
 Integrated informatics
 ======
